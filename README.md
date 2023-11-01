@@ -4,7 +4,7 @@
 
 La tarea va a consistir en modelar el movimiento de un rey de ajedrez por el tablero de dicho juego.
 
-<div align="center">
+<div>
 <p>
 <img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/posicionRey.png" />
 <img alt="Movimiento del rey en un tablero del ajedrez" src="src/main/resources/movimientoRey.png" />
@@ -16,7 +16,7 @@ En la primera imagen puedes observar cuál es el posicionamiento inicial válido
 
 Además, el rey tiene un movimiento especial, el enroque. Éste consiste en que el rey puede moverse junto con alguna de las torres segun se muestra en la siguiente imagen.
 
-<div align="center">
+<div>
 <p>
 <img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/enroqueRey.png" width="250px"/>
 </p>
@@ -33,7 +33,7 @@ En este repositorio GitHub hay un esqueleto de proyecto gradle que ya lleva incl
 
 Para ello te pongo un diagrama de clases para el mismo y poco a poco te iré explicando los diferentes pasos a seguir:
 
-<div align="center"><img alt="Diagrama de clases para reina de ajedrez" src="src/main/resources/diagramaClasesReyAjedrez.png" />
+<div><img alt="Diagrama de clases para reina de ajedrez" src="src/main/resources/diagramaClasesReyAjedrez.png" />
 </div>
 
 #### Primeros Pasos
